@@ -1,0 +1,47 @@
+body
+{
+	background-color:black;
+	background-image: url("images/subbggallery.jpg");
+    background-repeat: no-repeat;
+    background-position: center-top;
+    background-attachment:fixed;
+	background-size:100%;
+	
+}
+h1 {
+	text-align: center;
+	text-shadow: black 3px 3px 4px;
+	font-size:75px;
+	color:silver;
+}
+
+<style>
+
+
+
+
+
+
+div.img:hover {
+    border: 1px solid darkblue;
+}
+
+div.img img {
+	padding-top:5px;
+    width: 20%;
+    height: auto;
+	position: relative;
+	left: 40%;
+	
+	
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+	text-shadow: red 1px 0px 2px;
+	font-size:25px;
+	color:white;
+}
+</style>
+

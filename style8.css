@@ -1,0 +1,42 @@
+video::-internal-media-controls-download-button {
+    display:none;
+}
+
+
+body
+{
+	background-color:#101112;
+	background-image: url("images/bggradient.jpg");
+    background-repeat: no-repeat;
+    background-position: center-top;
+    background-attachment:fixed;
+	background-size:100%;
+	
+}
+h1 {
+	text-align: center;
+	text-shadow: darkblue 1px 1px 1px;
+	font-size:30px;
+	color:silver;
+}
+h2 {
+	text-align: center;
+	text-shadow: black 3px 3px 3px;
+	font-size:75px;
+	color:white;
+}
+
+p {
+	text-align: center;
+	text-shadow: red 1px 1px 2px;
+	font-size:24px;
+	color:white;
+}
+
+video {
+
+	margin-left:26%
+}
+iframe {
+margin-left:30%
+}
